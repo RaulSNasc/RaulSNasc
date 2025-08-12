@@ -4,9 +4,6 @@
 - 📫 Contate-me no e-mail: raul.s.nascimento@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Gosto de platinar jogos.
-<div>
-  <img align= right alt="Raul-Gengar" height="200 width="200" src="https://cdn.discordapp.com/attachments/1097973972806668441/1404805119555403940/pokemon-gengar.gif?ex=689c8638&is=689b34b8&hm=c429b56b4d0bf7d980faf931204ff366b107f69045fddec477a1f0e0973d987a&">
-</div>
 
 <div>
   <a href="https://github.com/RaulSNasc">
@@ -22,6 +19,14 @@
 </div>
 
 ##
+
+<div>
+  <a href ="https://www.instagram.com/yraulsn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="https://www.linkedin.com/in/raul-santos-do-nascimento-5396b51b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="https://twitch.tv/yraijinn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  <a href ="https://open.spotify.com/user/9okkw8pvclr48g5mtacshvn2w?si=096239cfa95d4c5a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaulSNasc/RaulSNasc/output/github-contribution-grid-snake-dark.svg">
