@@ -16,6 +16,7 @@
   <img align="center" alt="Raul-JS" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Raul-CSS" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="Raul-React" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="right" alt="Raul-Gengart" height="100 width="100" src="https://cdn.discordapp.com/attachments/1200554824282947585/1404833424103051344/markiplier.gif?ex=689ca094&is=689b4f14&hm=22f4e51110f224624e2ea9c4375c73bd116597851645b0cf562875ce36129468&"/>
 </div>
 
 ##
