@@ -23,7 +23,7 @@
 
 <div>
   <a href ="https://www.instagram.com/yraulsn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="https://www.linkedin.com/in/raul-santos-do-nascimento-5396b51b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="www.linkedin.com/in/raul-santos-do-nascimento-5396b51b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://twitch.tv/yraijinn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   <a href ="https://open.spotify.com/user/9okkw8pvclr48g5mtacshvn2w?si=096239cfa95d4c5a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
